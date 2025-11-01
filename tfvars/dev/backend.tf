@@ -1,4 +1,4 @@
- backend "s3" {
+  backend "s3" {
     bucket = "roboshop-dev"
     key    = "multi-env-dev"
     region = "us-east-1"
